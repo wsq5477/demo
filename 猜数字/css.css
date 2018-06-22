@@ -1,0 +1,22 @@
+.ipt{
+	-webkit-animation: toTop .3s ease-in;-webkit-animation-fill-mode:forwards;
+}
+		@-webkit-keyframes toTop{0%{top: 10%;}25%{top: 5%;}100%{top: -1000px;}}
+#a
+{
+	position:absolute;
+	top:250px;
+	left:500px;
+}
+#left{
+	position:absolute;
+	left:-400px;
+	top:100px;
+	transition:left .6s;
+}
+.hh
+{
+    position:absolute;
+    left:500px;
+    top:270px;
+}
