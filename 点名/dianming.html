@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+<title>英语单词</title>
+<meta charset="utf-8"/>
+<link type="text/css" href="3.css" rel="stylesheet">
+</head>
+<body>
+<div class="content">
+   <h2 class="tit">英语单词记忆册</h2>
+   <div>
+   <span class="right">单词库（单词稀缺）：</span>
+   <span class="left"><em id="personnum"></em> 个</span>
+   </div>
+   <div>
+   <span class="right">今日想记单词数（越少越好）：</span>
+   <span class="left"><input id="num" name="" type="text"></span>
+   </div>
+   <div>
+   <button id="startcheck">开始记忆</button>
+   </div>
+</div>
+<div class="body">
+   <div class="body-left">
+   	   <h3>英文单词：</h3>
+         <p id="personname">abcd</p>
+         <h3>中文翻译：</h3>
+         <p id="translate">add</p>
+   	   <div class="personcheck">
+   	   <button class="red">没记住</button>
+   	   <button class="green">记住了</button>
+   	   </div>
+   </div>
+   <div class="body-right">
+       <h3 class="forgive"> 当然是选择忘掉它们</h3>
+       <div class="person"></div>
+   </div>	
+</div>
+<audio autoplay="autoplay"></audio>
+<script type="text/javascript" src="show.js"></script>
+</body>
+</html>
