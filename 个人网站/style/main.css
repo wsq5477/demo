@@ -1,0 +1,52 @@
+body{width:100%;font-family:Arial;margin:0px 0px;color:#666;padding:0px;background:#888;}
+li{list-style: none;}
+h3{font-size:30px;text-align: center;color:#888;padding:60px 0px 0px 0px;}
+
+nav{height:80px;width:100%;background: #722872;position:fixed;top:0px;z-index:2;}
+nav img{width:50px;height:50px;padding:12px 0px 0px 150px;}
+nav ul{margin:-48px 200px 0px 0px;zoom:1;}
+nav span{float:right;}
+nav .top{background:#eee;}
+nav ul li{float:left;margin:0px;}
+nav li:after{clear:both;content:"";display: block;}
+nav li{color:#757777;text-decoration:none;display:block;padding:15px 16px;}
+nav li:hover{color:black;box-shadow:2px 2px 0px 0px rgb(0,0,0,0.2)}
+
+.container{width:1300px;}
+.about{margin:80px 135px;height:389px;background:#aaa;}
+.about ul{padding:50px 0px 0px 0px;}
+.about ul li{float:left;color:white;text-align: right;font-size: 20px;zoom:1;}
+.about ul li:after{clear:both;content:"";display:block;}
+.about p{display: block}
+.about .text_one{width:600px;margin:40px 74px 0px 66px;}
+.about .text_two{font-size:23px;width:670px;margin:40px 74px 0px 0px;}
+.about .border{width:500px;border-top:solid white 7px;margin:47px 0px 0px 165px;}
+.about img{border-radius: 50% 50%;width:250px;height:250px;}
+
+.portfolio{margin:-80px 135px;background: #eee;height:1300px;padding:0px;}
+.portfolio img{width:420px;height:303px;}
+.portfolio .border_two{width:700px;margin:40px 0px 0px 170px;border-top:solid 5px #888;}
+.portfolio ul{margin:40px 0px 0px 20px;}
+.portfolio ul li{float:left;padding:10px 20px;zoom:1;}
+.portfolio ul li:after{clear:both;content:"";display: block;}
+
+.contact{background: #eee;margin:-80px 135px;height:750px;}
+.contact .border_three{width:100%;height:1px;box-shadow: 0px 3px 3px #888}
+.contact label{font-size:15px;color:#722872;font-weight:bold;position:relative;top:30px;visibility: hidden;}
+.contact input{display:block;height:50px;color:#666;width:410px;font-size: 30px;border:none;border-bottom:solid 1px #bbb;background: #eee;outline:medium;}
+.contact #message{width:410px;font-size:30px;color:#666;font-family: Arial;resize:none;border:none;background: #eee;outline:medium;border-bottom:solid 1px #bbb;}
+.contact form{margin:20px 0px 0px 70px;}
+.contact button{width:63px;height:33px;color:#666;margin:40px 0px 0px 70px;}
+.contact p{position:relative;display:block;width:380px;font-size:20px;top:-550px;padding:10px 0px 0px 0px;left:580px;line-height:30px;z-index:1;}
+.contact .text{padding:170px 0px 0px 0px;}
+
+footer{width:100%;min-width: 1300px;}
+.footer_top{height:200px;color:white;background:#aaa;margin:80px 0px;box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.2);}
+.footer_top h3{color:white;font-size:23px;}
+.footer_top .text_one{margin:0px 0px 10px -550px;}
+.footer_top p{margin:0px 0px 0px 270px;width:200px;font-size:20px;}
+.footer_top .text_two{margin:-165px 0px 20px 450px;}
+.footer_top .image{margin:0px 0px 0px 770px;}
+.footer_top p a{color:#722872;text-decoration: none}
+.footer_top p a:hover{color:#5e225e;text-decoration: underline;}
+.footer_bottom{background: #722872;height:70px;margin:-90px 0px 0px 0px;color:white;font-size:20px;text-align: center;padding:20px 0px 0px 0px;}
