@@ -1,0 +1,30 @@
+<!--使用exec和全局标志来查找并突出显示一个文本字符串中的所有匹配-->
+<!doctype html>
+<html>
+  <head>
+  	<title>regExp</title>
+  	<style>
+      .found{
+      	background: #ff0;
+      }
+  	</style>
+  </head>
+  <body>
+  <form>
+  	<textarea id="txt" cols="40px" rows="10px">see the kitten on the wall,sporting with the leaves that fall,Withered leaves-one -two-and three,from the lofty elder-tree!</textarea>
+  	<br/>
+  	<br/>
+  	Search pattern :<input type="text" id="searchTxt"/>
+  	<!--替换时的词语-->
+  	<!--
+  	<br/>
+  	<br/>
+  	Replace pattern:<input type="text" id="replaceTxt"/>-->
+  </form>
+  <br/>
+  <button id="btn">Search for pattern</button>
+  <br/>
+  <div id="searchResult"></div>	
+  <script src="main.js"></script>
+  </body>
+</html>
