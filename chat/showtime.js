@@ -39,7 +39,7 @@ function showtime()
 	   }
 	   else
 	   {
-	   	  this.src="image3.jpg";
+	   	  this.src="image1.JPG";
 	   	  onoff=true;
 	   }
 	} 
