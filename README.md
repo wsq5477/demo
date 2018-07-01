@@ -12,7 +12,7 @@
    <br>这是一个猜数字的游戏，进度条100%时进入游戏，随机产生数字，根据范围猜数字
 5. [点名](http://htmlpreview.github.io/?https://github.com/wsq5477/demo/blob/master/点名/dianming.html)
    <br>可以用这个demo实现上课点名的效果，在此我改动了一下，使用其背单词
-6. [3D轮播](http://htmlpreview.github.io/?https://github.com/wsq5477/demo/blob/master/3D转换轮播/index.html)
+6. [3D轮播](http://htmlpreview.github.io/?https://github.com/wsq5477/demo/blob/master/3D%E8%BD%AC%E6%8D%A2%E8%BD%AE%E6%92%AD/index.html)
 
 ### 完整的网页界面
 1. [个人网站](http://htmlpreview.github.io/?https://github.com/wsq5477/demo/blob/master/个人网站/index.html)
