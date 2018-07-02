@@ -14,6 +14,8 @@
    <br>可以用这个demo实现上课点名的效果，在此我改动了一下，使用其背单词
 6. [3D轮播](http://htmlpreview.github.io/?https://github.com/wsq5477/demo/blob/master/3D转换轮播/index.html)
    <br>通过点击下方的横线和左右的按钮以及图片可以使其改变图片，鼠标未移入前自动轮播，移入后停止轮播
+7. [小米滑动图](http://htmlpreview.github.io/?https://github.com/wsq5477/demo/blob/master/小米滑动图/index.html)
+   <br>通过左右滑动，实现图片宽度的变化
 ### 完整的网页界面
 1. [个人网站](http://htmlpreview.github.io/?https://github.com/wsq5477/demo/blob/master/个人网站/index.html)
 2. [购物网站](http://htmlpreview.github.io/?https://github.com/wsq5477/demo/blob/master/购物网站/index.html)
