@@ -1,0 +1,25 @@
+*{
+	margin:0;
+	padding:0;
+}
+.container{
+	width: 862px; 
+	height: 515px;
+	position: relative;
+	border:1px solid black;
+	margin:30px auto;
+}
+.top{
+	z-index:2;
+	position: absolute;
+	width:50%;
+	overflow: hidden;
+}
+.btn{
+	width:2px;
+	height:515px;
+	background:red;
+	position:absolute;
+	top:0;
+	left:50%;
+}
