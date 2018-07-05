@@ -27,6 +27,8 @@ ul li{
 	position: absolute;
 	top:50%;
 	cursor:pointer;
+	width:30px;
+	height:30px;
 }
 #left{
 	left:20%;
