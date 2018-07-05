@@ -34,7 +34,7 @@ ul li{
 	left:20%;
 }
 #right{
-	right:20%;
+	right:17%;
 }
 #img{
 	position: absolute;
@@ -42,6 +42,7 @@ ul li{
 	left:27%;
 	width: 650px; 
 	height: 406px;
+	border:10px solid #fff;
 }
 #big{
 	display: none;
